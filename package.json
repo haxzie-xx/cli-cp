@@ -1,0 +1,22 @@
+{
+  "name": "kopy",
+  "version": "1.0.0",
+  "description": "A simple CLI tool to copy output of commands to clipboard",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/haxzie/kopy-cli.git"
+  },
+  "keywords": [
+    "clipboard"
+  ],
+  "author": "haxzie <musthu.gm@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/haxzie/kopy-cli/issues"
+  },
+  "homepage": "https://github.com/haxzie/kopy-cli#readme"
+}
