@@ -1,18 +1,18 @@
-# Kopy
+# CLI-CP
 A dead simple CLI tool to copy your CLI output to clipboard. Just Pipe it in and boom! It's on your clipboard.
 
 ## Install
 ```shell
-$ npm i -g kopy
+$ npm i -g cli-cp
 ```
 
 ## Usage
 ```shell
-$ pwd | kopy
+$ pwd | copy
 ✓ copied to clipboard
 ```
 ```shell
-$ echo $PATH | kopy
+$ echo $PATH | copy
 ✓ copied to clipboard
 ```
 
