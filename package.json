@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/haxzie/kopy-cli/issues"
   },
-  "homepage": "https://github.com/haxzie/kopy-cli#readme"
+  "homepage": "https://github.com/haxzie/kopy-cli#readme",
+  "dependencies": {
+    "clipboardy": "^1.2.3"
+  }
 }
